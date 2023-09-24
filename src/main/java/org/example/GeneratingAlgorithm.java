@@ -13,8 +13,6 @@ public class GeneratingAlgorithm {
     private static final String WARNING_MESSAGE = "Password length should be in range from 3 to 15!";
     private static final String RESULT_MESSAGE = "New password is: ";
 
-
-
     private void userInputPasswordLength() throws InputException {
         Scanner userInput = new Scanner(System.in);
         System.out.println(INPUT_MESSAGE);
