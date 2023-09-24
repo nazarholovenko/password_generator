@@ -1,4 +1,4 @@
 package org.example;
 
-public class LiteralsSource {
+public final class LiteralsSource {
 }
