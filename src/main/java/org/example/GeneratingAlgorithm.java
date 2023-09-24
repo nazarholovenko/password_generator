@@ -44,5 +44,4 @@ public class GeneratingAlgorithm {
         generatePassword();
         displayResult();
     }
-
 }
